@@ -56,3 +56,4 @@
 |Redmi 10X Pro| [Develop](https://github.com/Petit-Abba/update_miui_ota/blob/master/Develop/Redmi%2010X%20Pro.md)| [Stable](https://github.com/Petit-Abba/update_miui_ota/blob/master/Stable/Redmi%2010X%20Pro.md)|
  ---- 
 此系统仅供个人学习、研究之用,请勿用于商业用途。
+Chrome
